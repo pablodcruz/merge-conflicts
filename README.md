@@ -1,2 +1,3 @@
 # merge-conflicts
-Hello Revature!
+
+Hello friends
